@@ -1,0 +1,6 @@
+{
+  "name": "reactscroll",
+  "version": "0.0.0",
+  "private": false,
+  "main": "./ReactScroll.js"
+}
